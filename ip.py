@@ -15,7 +15,7 @@ except OSError or IOError:
     pass
 
 
-#my php
+#my data.php
 '''
 <?php
 $conn = mysql_connect('localhost', 'Server Username', 'Server Password');
